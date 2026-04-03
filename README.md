@@ -1,7 +1,7 @@
 # Formal Speech → Gen Z Meme Language
 ### LSTM Seq2Seq Baseline + FLAN-T5 QLoRA Fine-Tuning
 
-**Course:** Deep Learning — Final Assignment | **Author:** Divya Gunjan
+**Author:** Divya Gunjan
 
 ---
 
